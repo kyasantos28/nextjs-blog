@@ -20,6 +20,14 @@ export default function Home() {
           interesting and our professors teach well. With this, this year will be a good one with my classmates.</p>
         <p>I know now how to update my website.</p>
 
+      <h4>This is a sample list.</h4>
+      <ol>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+      </ol>
+
+
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
       </section>
